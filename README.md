@@ -1,7 +1,7 @@
 # Hi, I'm Andres R.
 
 **IT & Web Operations Specialist → Security & Compliance (GRC)**
-📍Colombia · 🌎 Remote · 🗣️ Spanish (native) · English (Professional working at an intermediate level. )
+📍Colombia · 🌎 Remote · 🗣️ Spanish (native) · English (intermediate)
 
 ---
 
@@ -22,7 +22,6 @@ I'm now focused on **Security & Compliance (GRC)**, where my operations backgrou
 ### 📫 Reach me
 
 - GitHub: github.com/okerinx
-- LinkedIn: [your LinkedIn URL]
 - Email:andrezr0@disroot.org
 
 ---
